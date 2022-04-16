@@ -9,10 +9,10 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este programa:
 
--Aprender más acerca de Git y Github
--Prepararme para un Hackathon
--Mejorar mis habilidades programando 
--Ser fullstack
+- Aprender más acerca de Git y Github
+- Prepararme para un Hackathon
+- Mejorar mis habilidades programando 
+- Ser fullstack
 
 🚀
 
