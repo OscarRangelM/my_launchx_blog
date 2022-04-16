@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Oscar Mauricio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://oscarrangelm.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://oscarrangelm.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruta de aprendizaje</title>
+      <link>https://oscarrangelm.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://oscarrangelm.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Bienvenide!!
+Este viaje ha sido de mucho aprendizaje, desde el inicio con nuestra Mision Comander Fer donde aprendimos:
+ Lógica con Python Jupyter notebooks Comand line Git Github  Despues continuamos con nuestro aprendizaje con el Mision Comander Rodrigo, con Front-End:
+ Nos introdujo al HTML Dimos estetica con CSS Creamos una Pokédex con JS Aprendimos VueJs  Acutalmente estoy estamos empezando la misión de Back-End con nuestro nuevo Mission Comander Carlos Gilmar:</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollad@or de software</title>
       <link>https://oscarrangelm.github.io/my_launchx_blog/posts/intro/</link>
